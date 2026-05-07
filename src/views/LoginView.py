@@ -4,6 +4,8 @@ from datetime import datetime
 
 
 def LoginView(page: ft.Page, auth_controller):
+    #examenes@gmail.com
+    #Examen#1
     
     def ver_contra():
         contra.password = not contra.password
